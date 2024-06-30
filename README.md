@@ -1,0 +1,1 @@
+## This repo contains django project using Django Template Langugae(DTL)
